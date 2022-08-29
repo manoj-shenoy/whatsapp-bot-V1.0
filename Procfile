@@ -1,1 +1,1 @@
-worker: python Whatsapp_BotV1.ipynb
+worker: python Whatsapp_BotV1.py
