@@ -16,7 +16,6 @@ notebook==6.3.0
 nsepy==0.8
 nsepython==0.0.972
 nsetools==1.0.11
-numpy==1.20.1
 pandas==1.2.4
 pywhatkit==5.4
 schedule==1.1.0
